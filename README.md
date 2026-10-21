@@ -24,7 +24,7 @@ An interactive sales dashboard built in **Microsoft Excel** to analyze Vrinda St
 
 ## Files
 - `Vrinda_Store_Dashboard.xlsx`: Excel workbook (Dashboard, Pivot Tables, Clean Data, Raw Data)
-- `dashboard.png`: Dashboard screenshot
+- `Dashboard.png`: Dashboard screenshot
 
 ## How to Use
 Download the `.xlsx` file and open it in Excel. Use the slicers on the left to filter by Month, Category and Channel.
