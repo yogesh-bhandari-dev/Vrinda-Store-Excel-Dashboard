@@ -2,7 +2,7 @@
 
 An interactive sales dashboard built in **Microsoft Excel** to analyze Vrinda Store's 2022 sales across months, categories, channels, states and customer segments.
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Tools & Features Used
 - Excel Pivot Tables and Pivot Charts
